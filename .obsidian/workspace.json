@@ -1,0 +1,246 @@
+{
+  "main": {
+    "id": "b4a6fd3816dbea9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "21fcf6c2bb2e5e6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9e25e39a89abe8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS/Syllabus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Syllabus"
+            }
+          },
+          {
+            "id": "216cb1a9b624a35c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS/Syllabus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Syllabus"
+            }
+          },
+          {
+            "id": "bcdc9428107f796e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JS/Day - 01 - Javascript Introduction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day - 01 - Javascript Introduction"
+            }
+          },
+          {
+            "id": "59e5d40f73fde952",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "JS/Day - 2 - Javascript Output & Variables.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Day - 2 - Javascript Output & Variables"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f955b8919a295ae0",
+    "type": "split",
+    "children": [
+      {
+        "id": "e87c8520abb8e18d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dec16d0726b85fef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bcc7224124ca2c43",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "27d866a711d0b006",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "3b9ce321cccc6537",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3a1af39d91435a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "723e41451c31b27c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CSS/Syllabus.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Syllabus"
+            }
+          },
+          {
+            "id": "1a7f76a21d816568",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CSS/Syllabus.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Syllabus"
+            }
+          },
+          {
+            "id": "64c9a10012cd35be",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6dc2f6765c4dc1d1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CSS/Syllabus.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Syllabus"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "59e5d40f73fde952",
+  "lastOpenFiles": [
+    "Python/Day  01 - Python Introduction.md",
+    "Python/Tutorial 15 days/Data Type/Number.md",
+    "Python/Tutorial 15 days/Untitled.md",
+    "Python/Tutorial 15 days/Syllabus.md",
+    "Python/Tutorial 15 days/Day 9 - Sets.md",
+    "Python/Tutorial 15 days/Day 8 - Dictionaries.md",
+    "Python/Tutorial 15 days/Day 7 - Tuples.md",
+    "Python/Tutorial 15 days/Day 6 - Lists.md",
+    "Python/Tutorial 15 days/Day 5 - Strings.md",
+    "Python/Tutorial 15 days/Day 4 - Operators.md",
+    "Python/Tutorial 15 days/Day 3 - Variables and Data Types.md",
+    "Python/Tutorial 15 days/Day 2 - Python Basics.md",
+    "Python/Tutorial 15 days/Day 15 - Exception Handling.md",
+    "Python/Tutorial 15 days/Day 14 - File Handling.md",
+    "Python/Tutorial 15 days/Day 13 - Modules and Packages.md",
+    "Python/Tutorial 15 days/Day 12 - Functions.md",
+    "Python/Tutorial 15 days/Day 11 - Loops.md",
+    "Python/Tutorial 15 days/Day 10 - Conditional Statements.md",
+    "Python/Tutorial 15 days/Day 1 - Introduction to Python.md",
+    "Python/Tutorial 15 days/Data Type",
+    "Python/Tutorial 15 days",
+    "Python/Flask/পাইথন ফ্লাস্ক রাউট লেখার সেরা পদ্ধতি.md",
+    "Python/Flask",
+    "Python/ভাড়া নিয়ে আলোচনা.md",
+    "Python/Variables.md",
+    "Python/Variable.md",
+    "Python/test_python.py",
+    "Python/Post - Interpreter.md",
+    "Python/Data Types.md",
+    "Python/Class 17 - Input.md",
+    "Python",
+    "Python3",
+    "JS/Day - 2 - Javascript Output & Variables.pdf",
+    "JS/Day - 01 - Javascript Introduction.pdf",
+    "JS",
+    "Laravel",
+    "Untitled.canvas"
+  ]
+}

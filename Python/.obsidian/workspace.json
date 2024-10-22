@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "25d1f7accae1d503",
+    "type": "split",
+    "children": [
+      {
+        "id": "49d2fd9548dded7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8dd338acf36a02a8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "beae9c118e008ae2",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9db41981b4ab0bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0826769e19e743fd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7434dd6c60ca8aa4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9bbb1d3dafe50076",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6bb1e0dc4914a63f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed0b3b0fab5fdf90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74f2b0bc5f778d10",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e224ce70925d9bf2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b8e7e9bbac21ccef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "84f61176b90ede90",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8dd338acf36a02a8",
+  "lastOpenFiles": [
+    "Class 03 - Data Type (Numbers).md",
+    "Tutorial 15 days/Day 4 - Operators.md",
+    "ভাড়া নিয়ে আলোচনা.md",
+    "Tutorial 15 days/Day 3 - Variables and Data Types.md",
+    "Tutorial 15 days/Day 2 - Python Basics.md",
+    "Tutorial 15 days/Untitled.md",
+    "Class 02 - Data Types.md",
+    "Class 04 - Data Types (Strings).md",
+    "Class 09 - Data Types (Dictionary).md",
+    "Class 08- Data Types (Sets).md",
+    "Class 06 - Data Types (List).md",
+    "Class 05 - Data Types (List).md",
+    "Class 01 - Variable.md",
+    "3 Comments.md",
+    "2 Output & Syntax.md",
+    "1. Python Basics (Lecture).md",
+    "1. Installation.md",
+    "0 Tutorial.md",
+    "Post - Interpreter.md",
+    "Variable.md",
+    "Variables.md",
+    "Tutorial 15 days/Day 1 - Introduction to Python.md",
+    "Tutorial 15 days/Day 15 - Exception Handling.md",
+    "Tutorial 15 days/Day 14 - File Handling.md",
+    "Tutorial 15 days/Day 13 - Modules and Packages.md",
+    "Tutorial 15 days/Day 12 - Functions.md",
+    "Tutorial 15 days",
+    "Flask",
+    "0 Tutorial.pdf",
+    "test_python.py",
+    "New Text Document.txt"
+  ]
+}
